@@ -1,3 +1,20 @@
-h1 {
-  text-decoration: underline;
-}
+@import 'abstracts/variables';
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/navigation';
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/topbar';
+@import 'layout/forms';
+
+@import 'components/buttons';
+@import 'components/carousel';
+
+@import 'pages/home';
+@import 'pages/about';
+@import 'pages/contact';
