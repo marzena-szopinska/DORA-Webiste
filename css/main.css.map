@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/base/_typography.scss","../scss/layout/_header.scss","../scss/components/_carousel.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;ACHF;EACE;EACA;;;ACFF;EACE;EACA","file":"main.css"}
